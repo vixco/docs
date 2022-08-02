@@ -10,7 +10,7 @@ Users, folders and filenames have been renamed from "dashboard" ⇒ "controlpane
 
 :::
 
-## Getting Error Logs
+
 
 ### Text Output
 
@@ -27,3 +27,5 @@ The following command will grab the last 100 lines of logs from the dashboard an
 ```
 tail -n 100 /var/www/controlpanel/storage/logs/laravel.log | nc bin.ptdl.co 99
 ```
+
+sebes
